@@ -43,5 +43,7 @@ public class Main {
 
         // Виведення результатів
         cars.forEach(System.out::println);
+
     }
+
 }
